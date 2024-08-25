@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: HackHerWay
+title: HackHerWay | A blog for all things Cybersecurity
+description: JLearn How to HackHerWay - The Hacker Way!
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - hacking-tutorials
+  - hacking-tools
+  - network-security
+  - guides-and-references
+  - cyberattacks
 show_hero: true
 menu:
   - title: Home
