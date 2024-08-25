@@ -18,23 +18,10 @@ menu:
     url: https://d0midigi.github.io/ethical-hacking
   - title: Computer Networks Concepts
     url: /computer-network-concepts
-        submenu:
-          - title: Terms
-            url: /terms
-            weight: 10
-  - name: Privacy
-    pageRef: /privacy
-    weight: 20
   - title: Hacking Essentials
     url: /hacking-essentials
-    submenu:
-      - title: Hacking Methodology
-        url: /hacking-methodology
   - title: Hacking Tools
     url: /hacking-tools
-    submenu:
-      - title: Windows Hacking Tools
-        url: /windows-hacking-tools
   - title: Information Security
     url: /information-security
   - title: OSINT
