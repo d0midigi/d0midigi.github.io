@@ -15,8 +15,7 @@ menu:
   - title: WHOAMI
     url: /whoami
   - title: Ethical Hacking
-    url: /ethical-hacking
-      url: //ethic
+    url: https://d0midigi.github.io/ethical-hacking
   - title: Computer Networks Concepts
     url: /computer-network-concepts
         submenu:
