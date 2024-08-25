@@ -22,19 +22,20 @@ layout: main
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
-                <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
+                <!-- <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
                     {% if site.date_format == nil %}
                         {{ featured.date | date: "%m.%d.%Y" }}
                     {% else %}
                         {{ featured.date | date: site.date_format }}
                     {% endif %}
-                </time>
-                <h1 class="title">{{ featured.title }}</h1>
-                <p class="description">{{ featured.subtitle }}</p>
+                </time> -->
+               <!-- <h1 class="title">{{ featured.title }}</h1> -->
+                <!-- <p class="description">{{ featured.subtitle }}</p> -->
                 <div class="buttons">
-                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
-                        <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                    <a href="#" role="button" 
+			    class="button">
+                        <!-- <svg><use xlink:href="#icon-read"></use></svg> -->
+                        <span>Check out my GitBook!</span>
                     </a>
                 </div>
             </div>
@@ -69,7 +70,7 @@ layout: main
                             </noscript>
                         {% endif %}
                         {% include new-post-tag.html date=post.date %}
-                        {% include read-icon.html %}
+                        <!-- {% include read-icon.html %} -->
                     </a>
                     <div class="box-info">
                         <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
