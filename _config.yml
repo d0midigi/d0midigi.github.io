@@ -20,8 +20,14 @@ menu:
     url: /computer-network-concepts
   - title: /Hacking Essentials
     url: /hacking-essentials
+    submenu:
+      - title: Hacking Methodology
+        url: hacking-methodology
   - title: Hacking Tools
     url: /hacking-tools
+    submenu:
+      - title: Windows Hacking Tools
+        url: /windows-hacking-tools
   - title: Information Security
     url: information-security
   - title: OSINT
