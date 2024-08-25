@@ -18,6 +18,12 @@ menu:
     url: /ethical-hacking
   - title: Computer Networks Concepts
     url: /computer-network-concepts
+  - name: Terms
+    pageRef: /terms
+    weight: 10
+  - name: Privacy
+    pageRef: /privacy
+    weight: 20
   - title: Hacking Essentials
     url: /hacking-essentials
     submenu:
