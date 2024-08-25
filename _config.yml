@@ -16,6 +16,7 @@ menu:
     url: /whoami
   - title: Ethical Hacking
     url: /ethical-hacking
+      url: //ethic
   - title: Computer Networks Concepts
     url: /computer-network-concepts
         submenu:
