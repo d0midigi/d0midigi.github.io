@@ -1,31 +1,31 @@
 # Site Settings
-name: HackHerWay
+name: HackHerWay Cybersecurity
 title: HackHerWay | A blog for all things Cybersecurity
-description: Learn How to HackHerWay - The Hacker Way!
+description: Learn How to HackHerWay | The Hacker Way
 tags:
   - hacking-tutorials
-  - hacking-tools
   - network-security
-  - guides-and-references
+  - hacking-tools
+  - resource-guides
   - cyberattacks
 show_hero: true
 menu:
   - title: 127.0.0.1
     url: /
-  - title: WHOAMI
-    url: /whoami
- # - title: Contact
-  #  url: /contact
+  - title: About
+    url: /about
   - title: Portfolio
     url: /portfolio
  # - title: Feed
- #  url: /feed.xml
-email: mindhackdiva@me.me
+ #   url: /feed.xml
+ # - title: Contact
+ #   url: /contact
+email: mindhackdiva@pm.me
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
@@ -33,9 +33,10 @@ formspree_form_id: formspree_form_id
 github_username: d0midigi
 # facebook_username: facebook_username
 twitter_username: d0midigi
-# instagram_username: instagram_username
-linkedin_username: yvonne.angelica
-medium_username: i love you bibby
+instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
+
 
 # Posts Settings
 show_time_bar: true
@@ -92,7 +93,8 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: [
+exclude: 
+[
   "docs/",
   "vendor/",
   "LICENSE",
@@ -106,8 +108,8 @@ exclude: [
   "Gemfile",
   "Gemfile.lock",
   "gulpfile.js",
-  "README.md",
+  "README.md"
 ]
 
 # Theme
-version: v13.37
+version: v3.1.2
