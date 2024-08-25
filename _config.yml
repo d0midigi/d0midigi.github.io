@@ -12,14 +12,25 @@ show_hero: true
 menu:
   - title: 127.0.0.1
     url: /
-  - title: About
-    url: /about
-  - title: Portfolio
-    url: /portfolio
- # - title: Feed
- #   url: /feed.xml
- # - title: Contact
- #   url: /contact
+  - title: WHOAMI
+    url: /whoami
+  - title: Ethical Hacking
+    url: /ethical-hacking
+  - title: Computer Networks Concepts
+    url: /computer-network-concepts
+  - title: /Hacking Essentials
+    url: /hacking-essentials
+  - title: Hacking Tools
+    url: /hacking-tools
+  - title: Information Security
+    url: information-security
+  - title: OSINT
+    url: /osint
+  - title: Cyberattacks
+    url: cyberattacks
+  - title: Tutorials
+    url: /tutorials
+  -
 email: mindhackdiva@pm.me
 # See: https://disqus.com/
 # disqus_username: disqus_username
