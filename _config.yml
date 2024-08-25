@@ -110,8 +110,7 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: 
-[
+exclude: [
   "docs/",
   "vendor/",
   "LICENSE",
