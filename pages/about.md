@@ -13,6 +13,6 @@ permalink: /about/
 
 Just your atypical gal with a crazy passion for all things network- and
 Cybersecurity-related specializing in Red Teaming | Offensive SecOps |
-OSINT | Social Engineering & Deception Tactics | Policy, Procedures,
+OSINT | Social Engineering & Deception Tactics | Policy, Procedure,
 Guidance (PPGs) | Compliance | Risk & Vulnerability Management |
 ⭐ 🍄 Super Mario Bros obsessed 🍄 ⭐
