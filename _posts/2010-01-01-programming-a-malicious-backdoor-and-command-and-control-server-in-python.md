@@ -5,8 +5,7 @@ title:
 subtitle: 
 description:
   image: https://i.imgur.com/pn0w83N.png
-optimized_image: >-
-  <!-- https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg -->
+optimized_image: https://i.imgur.com/pn0w83N.png
 category: blog
 tags:
   - hacking
