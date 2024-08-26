@@ -4,7 +4,7 @@ layout: post
 title:
 subtitle: 
 description:
-image: https://i.imgur.com/pn0w83N.png
+image: https://i.imgur.com/DCgwIwy.jpeg
 optimized_image:
 category: blog
 tags:
