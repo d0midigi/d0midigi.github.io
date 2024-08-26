@@ -214,7 +214,7 @@ In cases where a suitable API is not readily available, developers need to learn
 
 Therefore, adhering to these best practices and security standards not only bolsters the overall robustness of the software but also promotes a proactive approach to handling input validation and security considerations effectively. By incorporating these principles into the development workflow, you can show and train them on how to better and best safeguard their applications against common security threats, maintaining high levels of integrity in handling user inputs from both attacking and defending perspectives.
 
-[5eEZDmK - Imgur](https://github.com/user-attachments/assets/042bbaa3-19fc-4669-b549-44c794c728ab)
+image: https://github.com/user-attachments/assets/042bbaa3-19fc-4669-b549-44c794c728ab
 
 
 ## Inline HTML elements
