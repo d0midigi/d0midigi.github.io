@@ -9,7 +9,26 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile-image.png" alt="mindhackdiva" width="200">
 
-# About
+# WHOAMI
 
-Red Team | Offensive SecOps | OSINT | Social Engineering & Deception Tactics
-| Policy | Compliance | Risk & Vulnerability Management | Super Mario Bros obsessed
+Just your atypical gal with a crazy passion for all things network- and
+Cybersecurity-related specializing in Red Teaming | Offensive SecOps |
+OSINT | Social Engineering & Deception Tactics | Policy, Procedures,
+Guidance (PPGs) | Compliance | Risk & Vulnerability Management |
+Super Mario Bros obsessed
+⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬜⬜🟥🟥⬜⬜⬛⬛⬜⬜⬜
+⬜⬜⬛⬛⬜⬜⬜🟥🟥⬜⬜⬜⬛⬛⬜⬜
+⬜⬛⬛🟥⬜⬜🟥🟥🟥🟥⬜⬜🟥⬛⬛⬜
+⬜⬛⬜🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜⬛⬜
+⬛⬛⬜⬜🟥🟥⬜⬜⬜⬜🟥🟥⬜⬜⬛⬛
+⬛⬜⬜⬜🟥⬜⬜⬜⬜⬜⬜🟥⬜⬜⬜⬛
+⬛⬜⬜⬜🟥⬜⬜⬜⬜⬜⬜🟥⬜⬜⬜⬛
+⬛⬜⬜🟥🟥⬜⬜⬜⬜⬜⬜🟥🟥⬜⬜⬛
+⬛🟥🟥🟥🟥🟥⬜⬜⬜⬜🟥🟥🟥🟥🟥⬛
+⬛🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥🟥⬛
+⬛⬛⬛⬛⬜⬜⬛⬜⬜⬛⬜⬜⬛⬛⬛⬛
+⬜⬛⬛⬜⬜⬜⬛⬜⬜⬛⬜⬜⬜⬛⬛⬜
+⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜⬜
+⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜
