@@ -4,8 +4,8 @@ layout: post
 title:
 subtitle: 
 description:
-  image: https://i.imgur.com/pn0w83N.png
-<!-- optimized_image: https://i.imgur.com/pn0w83N.png -->
+image: https://i.imgur.com/pn0w83N.png
+optimized_image: https://i.imgur.com/pn0w83N.png
 category: blog
 tags:
   - hacking
