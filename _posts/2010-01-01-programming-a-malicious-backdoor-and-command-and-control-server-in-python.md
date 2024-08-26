@@ -5,7 +5,7 @@ title:
 subtitle: 
 description:
 image: https://i.imgur.com/pn0w83N.png
-optimized_image: https://i.imgur.com/pn0w83N.png
+optimized_image:
 category: blog
 tags:
   - hacking
