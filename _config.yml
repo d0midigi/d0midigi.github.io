@@ -1,5 +1,5 @@
 # Site Settings
-name: HackHerWay
+name: HackHerWay - Learn How to HackHerWay - The Hacker Way!
 title: HackHerWay | A network- and Cybersecurity-related space
 description: Learn How to HackHerWay - The Hacker Way!
 tags:
@@ -28,12 +28,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: d0midigi
+#facebook_username: facebook_username
+twitter_username: d0midigi
+#instagram_username: instagram_username
+linkedin_username: yvonne.angelica
+#medium_username: medium_username
 
 
 # Posts Settings
