@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
+title: Networking 101
+slug: networking-101
 description: A category for life related posts.
 ---
