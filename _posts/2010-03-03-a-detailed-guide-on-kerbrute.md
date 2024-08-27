@@ -1,23 +1,23 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: A Detailed Guide on Kerbrute
+subtitle: 
+description:
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+category: Domain Attacks
 tags:
-  - books
-  - read
-author: mranderson
+  - active directory
+  - kerberos protocol
+  - domain cyberattacks
+author: mindhackdiva
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Background
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
+Kerbrute is a tool used to enumerate valid Active Directory (AD) user accounts that leverage the Kerberos pre-authentication protocol. This tool not only excels in enumerating user accounts but also extends its capabilities to facilitate various password-based attacks, encompassing password brute-force methodologies, targeted username identification, and the strategic  
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 <!--page-->
